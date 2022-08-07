@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Main
 
 You can use the [editor on GitHub](https://github.com/Piyush-Katyal/Piyush-Katyal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
